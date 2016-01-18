@@ -1,0 +1,24 @@
+body {
+  background: url(https://i.sli.mg/nsiXxo.png) repeat;
+}
+.quote {
+  font-size: 2em;
+}
+.author {
+  padding-top: 12px;
+  font-size: 1.5em;
+  font-style: italic;
+}
+.jumbotron {
+  border: 1px solid black;
+}
+.about {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.links {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
